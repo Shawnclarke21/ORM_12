@@ -27,4 +27,4 @@ incomplete still running into issues when trying to run go into tags and pass in
 
 ##problems 
 
-i wasnt able to get prompts to come up in the terminal also i was having issues adding people or objects into the code also i had issues trying to add roles to people 
+i wasnt able to get my tags and information to pass through and i couldnt get things to post when trying to pass things through into the tags or tag ids
