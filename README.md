@@ -25,3 +25,6 @@ no licensing set
 
 incomplete still running into issues when trying to run go into tags and pass information through
 
+##problems 
+
+i wasnt able to get prompts to come up in the terminal also i was having issues adding people or objects into the code also i had issues trying to add roles to people 
