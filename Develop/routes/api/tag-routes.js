@@ -24,10 +24,10 @@ try {
 }catch (err){
   res.status(500).json({message: "not found"})
 }
-if (!tagData){
-  res.status (404).json({message:"no tag found"});
-  return;
-}
+// if (! tagData){
+//   res.status (404).json({message:"no tag found"});
+//   return;
+// }
 });
 
 router.post('/', async (req, res) => {
